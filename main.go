@@ -1,7 +1,8 @@
 package main
 
 import (
-	"githhub.com/gign-gonic/gin"
+	
+	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/mongo"
 	"golang-resturant-management/database"
 	"golang-resturant-management/middleware"
